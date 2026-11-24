@@ -41,7 +41,7 @@ const timeline = [
   { speed: 1.32, pause: 0.55, text: 'come.and( "take" ){ it: "back" };',                                  zoom: false, zoomOut: false, glitch: false },
 
   // ── OUTRO ──
-  { speed: 1.60, pause: 0.50, text: '// Tiktok : @clarxxinn', zoom: false, zoomOut: false, glitch: false },
+  { speed: 1.60, pause: 0.50, text: '// xylle bubwit calaycay marquez', zoom: false, zoomOut: false, glitch: false },
 ];
 
 (() => {
